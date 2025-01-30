@@ -1,0 +1,23 @@
+{
+  "name": "free-code-camp-crud-api-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sean8131/free-code-camp-CRUD-api-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sean8131/free-code-camp-CRUD-api-tutorial/issues"
+  },
+  "homepage": "https://github.com/Sean8131/free-code-camp-CRUD-api-tutorial#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
