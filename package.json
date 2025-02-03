@@ -20,7 +20,8 @@
   "homepage": "https://github.com/Sean8131/free-code-camp-CRUD-api-tutorial#readme",
   "dependencies": {
     "express": "^4.21.2",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "uuid": "^11.0.5"
   },
   "description": ""
 }
